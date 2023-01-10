@@ -53,7 +53,7 @@ apt install curl -y
 2. Затем запустим скачивание скрипта установки:
 
 ```
-curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
+curl -O https://github.com/AskinNet/wireguard/blob/main/wireguard-install.sh
 chmod +x wireguard-install.sh
 ./wireguard-install.sh
 ```
